@@ -1,1 +1,1 @@
-# KURSMOLODOGOBOYCA
+# Курс молодого бойца
