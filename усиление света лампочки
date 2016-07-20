@@ -1,0 +1,14 @@
+int x;
+  void setup() {                
+  pinMode(11, OUTPUT);     
+}
+
+void loop() {
+  analogWrite(11,1);
+  x=1;
+  while (x<255) {
+  analogWrite(11,x);
+  x=x+1;
+  delay(10);
+  }
+}
