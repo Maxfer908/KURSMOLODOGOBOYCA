@@ -1,0 +1,41 @@
+ void setup (led,OUTPUT);
+  
+  void loop() {
+  delay(5000);
+  digitalWrite(led,HIGH);
+  delay(100);
+  digitalWrite(led,LOW);
+  delay(100);
+  digitalWrite(led,HIGH);
+  delay(100);
+  digitalWrite(led,LOW);
+  delay(100);
+  digitalWrite(led,HIGH);
+  delay(100);
+  digitalWrite(led,LOW);
+  delay(100);
+  digitalWrite(led,HIGH);
+  delay(1000);
+  digitalWrite(led,LOW);
+  delay(1000);
+  digitalWrite(led,HIGH);
+  delay(1000);
+  digitalWrite(led,LOW);
+  delay(1000);
+  digitalWrite(led,HIGH);
+  delay(1000);
+  digitalWrite(led,LOW);
+  delay(1000);
+  digitalWrite(led,HIGH);
+  delay(100);
+  digitalWrite(led,LOW);
+  delay(100);
+  digitalWrite(led,HIGH);
+  delay(100);
+  digitalWrite(led,LOW);
+  delay(100);
+  digitalWrite(led,HIGH);
+  delay(100);
+  digitalWrite(led,LOW);
+  delay(100);
+}
