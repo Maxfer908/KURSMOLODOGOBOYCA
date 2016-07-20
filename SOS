@@ -1,4 +1,6 @@
- void setup (led,OUTPUT);
+ void setup (){
+ pinMode(led,OUTPUT)
+ }
   
   void loop() {
   delay(5000);
